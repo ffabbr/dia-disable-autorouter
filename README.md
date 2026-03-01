@@ -26,7 +26,7 @@ By setting the AI class bias to a very large negative value, the model will alwa
 
 The file is then locked (read-only) so Dia cannot overwrite it on startup.
 
-No binary patching. No code-signing changes. Fully reversible.
+No binary patching or code-signing changes. 
 
 ---
 
